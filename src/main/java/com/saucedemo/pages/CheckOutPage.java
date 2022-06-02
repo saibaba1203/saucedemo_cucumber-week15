@@ -22,7 +22,8 @@ public class CheckOutPage extends Utility {
 
     public void clickOnCheckOut(){
         clickOnElement(checkOutLink);
-        log.info("Click on CheckOut Button");
+        log.info("Click on CheckOut Button ");
+        // test 1
     }
 
 
